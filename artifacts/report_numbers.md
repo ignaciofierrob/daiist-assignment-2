@@ -1,4 +1,4 @@
-# Numbers produced by train.py (paste into REPORT.md)
+# Numbers produced by train.py
 
 Run settings: {"model": "yolo11n.pt", "epochs": 30, "imgsz": 416, "batch": 8, "seed": 0, "device": "auto", "machine": "Windows-11-10.0.26200-SP0", "roboflow": "artificial-intelligence-82oex/detecting-diseases v5", "trained_at": "2026-10-27 15:24", "minutes": 15.3}
 
