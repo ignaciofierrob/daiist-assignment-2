@@ -1,8 +1,9 @@
 # Assignment 2 Report
 
-Ignacio Fierro Botin
-20206
-BBADBA A
+- **Name**: Ignacio Fierro Botin
+- **Student ID**: 20206
+- **Email**: ifierro.ieu2022@student.ie.edu
+- **Group**: BBADBA A
 
 
 
@@ -28,7 +29,7 @@ As explained, one image is a photo of a leaf, flower or fruit with a boxed area 
 
 
 
-## What the dataset's composition means
+## What the dataset's composition implies
 
 The three splits are similar as in each one around 80% of the images contain a fungal type, they are also similar as each image has at least one box and the mean box takes up around 12% of the image. The test instances per class run from 698 in the strawberry leaf spot to 31-41 in the three tomato classes, this means a few things:
 
